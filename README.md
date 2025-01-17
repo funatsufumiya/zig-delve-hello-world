@@ -1,6 +1,6 @@
 # zig-delve-hello-world
 
-Tiny example of using [delve](https://github.com/Interrupt/delve-framework) as external library.
+Tiny example of using [Delve Framework](https://github.com/Interrupt/delve-framework) as an external library.
 
 Tested with Zig 0.13.0.
 
